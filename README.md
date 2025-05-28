@@ -1,7 +1,10 @@
 ##Báo cáo kiểm thử hiệu năng bằng JMeter
 -Thông tin sinh viên
+
 -Họ tên: Nguyễn Hữu Tiến
+
 -MSSV: 220225
+
 -Website được kiểm thử: https://www.wikipedia.org
 
 ##Mô tả kịch bản kiểm thử
