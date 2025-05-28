@@ -1,0 +1,5 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Home Page,8,724,436,1177,270.20,0.000%,.02071,1.87,0.00,92257.0
+Home Page Request,75,600,154,2290,470.48,0.000%,14.81628,1358.12,3.70,93863.7
+Help Contents Page,8,1258,595,3197,877.22,0.000%,.02072,3.83,0.01,189480.2
+TOTAL,91,669,154,3197,539.67,0.000%,.23500,23.44,0.06,102128.3
