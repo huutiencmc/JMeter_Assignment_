@@ -12,7 +12,7 @@
 
 **Kịch bản 1: Cơ bản**
 
--Số lượng người dùng: 10 + (220225 % 10) = 15
+-Số lượng người dùng: 10 + (25 % 10) = 15
 
 -Hành vi: Gửi yêu cầu GET đến https://www.wikipedia.org
 
@@ -20,7 +20,7 @@
 
 **Kịch bản 2: Tải nặng**
 
--Số lượng người dùng: 50 + (220225 % 20) = 55
+-Số lượng người dùng: 50 + (25 % 20) = 55
 
 -Ramp-up Period: 30 giây
 
@@ -28,7 +28,7 @@
 
 **Kịch bản 3: Tùy chỉnh**
 
--Số lượng người dùng: 20 + (220225 % 15) = 25
+-Số lượng người dùng: 20 + (25 % 15) = 25
 
 -Thời gian chạy: 60 giây
 
